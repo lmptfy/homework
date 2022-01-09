@@ -15,7 +15,7 @@ Make install
 Make shell
 ```
 
-### (C) Serve on localhost to environment
+### (C) Serve on localhost
 
 ```bash
 Make run
